@@ -160,6 +160,7 @@ apply_image_wallpaper() {
   local image_path="$1"
 
 	caelestia wallpaper --file $1
+	caelestia scheme set -n dynamic
 
 }
 
