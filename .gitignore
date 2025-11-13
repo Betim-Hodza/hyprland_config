@@ -1,2 +1,3 @@
 scheme/*
 monitors.conf
+scripts/ollama_tunnel_ssh.sh
